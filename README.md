@@ -37,8 +37,41 @@ Bigquery is used to perform SQL queries due to the size of the data set.
 
 # Data Exploration
 
-The total number of rows are checked in the table "covid_data" by using the query below.
+1. The total number of rows are checked in the table "covid_data" by using the query below.
 
 ![image](https://github.com/AAGH98/Covid19_Analysis/assets/141926743/b2d9886d-7d64-40c8-87a9-a980718ead3c)
+
+
+2. The data is selected that i will start with
+   
+![image](https://github.com/AAGH98/Covid19_Analysis/assets/141926743/984e6e52-adee-4f0a-82e2-2102b558e6df)
+
+3. Total cases vs total deaths is compared
+
+![image](https://github.com/AAGH98/Covid19_Analysis/assets/141926743/9fffa8cc-2f3d-43e9-b4c4-58e740886f4c)
+
+
+4. Total cases vs population is compared to show the percentage of people who had covid
+
+
+![image](https://github.com/AAGH98/Covid19_Analysis/assets/141926743/53187712-cb83-425b-987a-132cb66f95b6)
+
+
+5. Countries with the highest covid count in comparison to their population
+
+
+![image](https://github.com/AAGH98/Covid19_Analysis/assets/141926743/1008116a-e693-4a3c-9b63-5d8dc7ae29f4)
+
+
+6. Countries with the highest rate of covid deaths
+
+
+![image](https://github.com/AAGH98/Covid19_Analysis/assets/141926743/df30b702-2a3d-442f-9308-9838fd91e6b0)
+
+
+7. On a global scale, the total number of cases, deaths and the percentage of deaths is queried
+
+
+![image](https://github.com/AAGH98/Covid19_Analysis/assets/141926743/cb5c3f16-3dce-40ee-8c72-04e10731496e)
 
 
