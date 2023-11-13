@@ -89,4 +89,15 @@ Bigquery is used to perform SQL queries due to the size of the data set.
 
 
 
+# Analysis
+
+Multiple tables have been queried using SQL and they were visualised in Tableau.
+
+
+
+
+
+
+
+
 
