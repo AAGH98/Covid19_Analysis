@@ -95,6 +95,16 @@ Multiple tables have been queried using SQL and they were visualised in Tableau.
 
 
 
+<img width="997" alt="image" src="https://github.com/AAGH98/Covid19_Analysis/assets/141926743/bbc6e6f7-dd69-4424-ab1e-e912be84785d">
+
+- Multiple charts are shown in the table above.
+- Global numbers show the figures recieved from Jan 2020 to November 2023. The percentage of dying from covid-19 is 1%.
+- Cyprus recorded the highest number of covid cases.
+- In regards to continents, Europe had the highest percentage of covid deaths. 
+
+
+
+
 
 
 
